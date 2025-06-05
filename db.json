@@ -19,12 +19,6 @@
       "imagen": "tabla_quesos.jpg"
     },
     {
-      "nombre": "Bruschetta de tomate",
-      "descripcion": "Pan tostado con tomate, ajo y albahaca",
-      "precio": "5.50",
-      "imagen": "bruschetta.jpg"
-    },
-    {
       "nombre": "Croquetas de jamón",
       "descripcion": "Croquetas caseras de jamón ibérico",
       "precio": "6.50",
@@ -41,24 +35,6 @@
       "descripcion": "Empanadas rellenas de carne y especias",
       "precio": "7.00",
       "imagen": "empanadas.jpg"
-    },
-    {
-      "nombre": "Nachos con guacamole",
-      "descripcion": "Totopos de maíz con guacamole casero",
-      "precio": "6.50",
-      "imagen": "nachos.jpg"
-    },
-    {
-      "nombre": "Patatas bravas",
-      "descripcion": "Patatas fritas con salsa picante",
-      "precio": "5.00",
-      "imagen": "patatas_bravas.jpg"
-    },
-    {
-      "nombre": "Queso frito con mermelada",
-      "descripcion": "Queso empanado acompañado de mermelada de frutos rojos",
-      "precio": "6.20",
-      "imagen": "queso_frito.jpg"
     }
   ],
   "primeros": [
@@ -97,18 +73,6 @@
       "descripcion": "Arroz con tinta de calamar y alioli",
       "precio": "12.00",
       "imagen": "arroz_negro.jpg"
-    },
-    {
-      "nombre": "Pasta boloñesa",
-      "descripcion": "Pasta con salsa de carne y tomate",
-      "precio": "9.00",
-      "imagen": "boloñesa.jpg"
-    },
-    {
-      "nombre": "Fideuá de marisco",
-      "descripcion": "Plato típico valenciano con fideos y marisco",
-      "precio": "13.00",
-      "imagen": "fideua.jpg"
     }
   ],
   "segundos": [
@@ -147,24 +111,6 @@
       "descripcion": "Muslo de pollo asado con patatas al horno",
       "precio": "11.00",
       "imagen": "pollo_asado.jpg"
-    },
-    {
-      "nombre": "Merluza a la romana",
-      "descripcion": "Filete de merluza rebozado y frito",
-      "precio": "12.50",
-      "imagen": "merluza.jpg"
-    },
-    {
-      "nombre": "Carrillada ibérica",
-      "descripcion": "Carne de cerdo guisada lentamente con vino",
-      "precio": "13.50",
-      "imagen": "carrillada.jpg"
-    },
-    {
-      "nombre": "Chuletillas de cordero",
-      "descripcion": "Chuletillas a la plancha con guarnición",
-      "precio": "16.00",
-      "imagen": "chuletillas.jpg"
     }
   ],
   "postres": [
@@ -203,24 +149,6 @@
       "descripcion": "Bizcocho de chocolate con centro líquido",
       "precio": "5.50",
       "imagen": "coulant.jpg"
-    },
-    {
-      "nombre": "Macedonia de frutas",
-      "descripcion": "Frutas variadas cortadas en dados",
-      "precio": "4.00",
-      "imagen": "macedonia.jpg"
-    },
-    {
-      "nombre": "Tarta de manzana",
-      "descripcion": "Tarta casera de manzana caramelizada",
-      "precio": "4.80",
-      "imagen": "tarta_manzana.jpg"
-    },
-    {
-      "nombre": "Mousse de limón",
-      "descripcion": "Postre ligero y cítrico con nata y limón",
-      "precio": "4.20",
-      "imagen": "mousse_limon.jpg"
     }
   ],
   "bebidas": [
@@ -255,34 +183,10 @@
       "imagen": "zumo_naranja.jpg"
     },
     {
-      "nombre": "Té helado",
-      "descripcion": "Bebida refrescante de té negro con limón",
-      "precio": "2.00",
-      "imagen": "te_helado.jpg"
-    },
-    {
-      "nombre": "Batido de fresa",
-      "descripcion": "Batido natural con leche y fresas frescas",
-      "precio": "3.80",
-      "imagen": "batido_fresa.jpg"
-    },
-    {
       "nombre": "Café solo",
       "descripcion": "Café espresso",
       "precio": "1.50",
       "imagen": "cafe.jpg"
-    },
-    {
-      "nombre": "Café con leche",
-      "descripcion": "Café mezclado con leche caliente",
-      "precio": "1.80",
-      "imagen": "cafe_leche.jpg"
-    },
-    {
-      "nombre": "Infusión de menta",
-      "descripcion": "Tisana de menta fresca",
-      "precio": "1.60",
-      "imagen": "menta.jpg"
     }
   ]
 }
